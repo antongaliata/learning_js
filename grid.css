@@ -1,0 +1,44 @@
+.body{
+	background: rgb(255, 255, 255);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	height: 900px;
+}
+/*.body:hover{*/
+/*	transition-property: background-color;*/
+/*	transition-duration: .09s;*/
+
+/*}*/
+
+
+
+.conteiner_caunter{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
+.buttonCounter{
+	width: 200px;
+	height: 100px;
+	border: 1px solid red;
+	background: #faebd7;
+}
+
+
+.buttonCounter:active{
+	background: #666666;
+}
+
+.counter{
+	width: 300px;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 400px;
+}
