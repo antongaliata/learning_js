@@ -417,6 +417,7 @@ for(let i = 0; i < words.length; i++){
 
 console.log("Hello world");
 
+alert("ну привет");
 
 
 
